@@ -1,1 +1,2 @@
 1 build first version.
+2 test whether local motifed can be upload to the github
